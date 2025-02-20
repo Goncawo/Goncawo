@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gonçalo Baião</h1>
-<h3 align="center">MSc in Eletrical and Computer Engineering</h3>
+<h2 align="center">MSc in Eletrical and Computer Engineering</h3>
 <h3 align="center">Main Area in Control, Robotics and Artificial Intelligence</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nelsint&label=Profile%20views&color=0e75b6&style=flat" alt="nelsint" /> </p>
